@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/project/mybatis_Concepts_Paging_getTotal_First_Second_Cache_C3p0/lib/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/project/mybatis_Concepts_Paging_getTotal_First_Second_Cache_C3p0/lib/jsqlparser-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/project/mybatis_Concepts_Paging_getTotal_First_Second_Cache_C3p0/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/project/mybatis_Concepts_Paging_getTotal_First_Second_Cache_C3p0/lib/mybatis-3.4.2.jar"/>
+	<classpathentry kind="lib" path="E:/project/mybatis_Concepts_Paging_getTotal_First_Second_Cache_C3p0/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="E:/project/mybatis_Concepts_Paging_getTotal_First_Second_Cache_C3p0/lib/pagehelper-5.1.0-beta2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
